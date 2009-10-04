@@ -1,0 +1,19 @@
+8
+
+dir
+6
+http://devinterface.unfuddle.com/svn/devinterface_cellhardware/SysProp/src/com/devinterface/phone
+http://devinterface.unfuddle.com/svn/devinterface_cellhardware
+
+
+
+2009-08-25T15:50:18.065611Z
+6
+devinterface
+
+
+svn:special svn:externals svn:needs-lock
+
+SysProperties
+dir
+
